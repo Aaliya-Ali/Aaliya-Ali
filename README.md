@@ -1,5 +1,5 @@
-### Hi there 👋
 
+![](https://github.com/Aaliya-Ali/hello-world/blob/master/GIF-200715_135429.gif)
 <!--
 **Aaliya-Ali/Aaliya-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##### Made with ❤️ by [Aaliya Ali](https://github.com/Aaliya-Ali)
+
+##### Connect with me: 
+
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/AaliyaAli_01"><img src="https://img.icons8.com/android/24/000000/twitter.png" height="20px" width="20px"/></a>
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aaliyaali/"><img src="https://img.icons8.com/android/24/000000/linkedin.png" height="20px" width="20px"/></a>
+
+&nbsp;[@AaliyaAli_01](https://twitter.com/AaliyaAli_01) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;[@AaliyaAli](https://www.linkedin.com/in/aaliyaali/)
