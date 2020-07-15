@@ -1,5 +1,5 @@
 
-![](https://github.com/Aaliya-Ali/hello-world/blob/master/GIF-200715_135429.gif)
+![GIF Loading](https://github.com/Aaliya-Ali/hello-world/blob/master/GIF-200715_135429.gif)
 <!--
 **Aaliya-Ali/Aaliya-Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
